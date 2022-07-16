@@ -9,7 +9,7 @@ https://templatemo.com/tm-566-medic-care
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
-:root {
+/* :root {
   --white-color:                  #FFFFFF;
   --primary-color:                #247cff;
   --section-bg-color:             #F9F9F9;
@@ -33,7 +33,7 @@ https://templatemo.com/tm-566-medic-care
   --font-weight-normal:           400;
   --font-weight-semibold:         600;
   --font-weight-bold:             700;
-}
+} */
 
 body {
     background: var(--white-color);
